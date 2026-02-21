@@ -1,4 +1,4 @@
-#Linux Architecture, Processes, and systemd#
+<h1>Linux Architecture, Processes, and systemd</h1>
 
 ###Kernel### - Its core component of linux, Managing memory and other hardware componenent ensures everything runs smoothly, 
 it handles task running programs & schedule system processes.
